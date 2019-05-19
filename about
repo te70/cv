@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>About</title>
+    <style type="text/css">
+      html{
+      background:url(muuki.jpg) no-repeat center center fixed;
+      -webkit-background-size:cover;
+      -moz-background-size:cover;
+      -o-background-size:cover;
+      background-size:cover;
+      }
+
+      body{
+        background:none;
+      }
+
+      #juu{
+        color:white;
+        font-family:cinzel decorative;
+        margin-top:100px;
+        margin-left:50px;
+      }
+      
+      #container{
+        margin-top:52px;
+        position:relative;
+        font-family:niconne;
+
+      }
+
+    
+    </style>
+  </head>
+  <body>
+  <div id="nav">
+    <div class="pos-f-t">
+  <div class="collapse" id="navbarToggleExternalContent">
+    <div class="bg-dark p-4">
+      <h5 class="text-white h4">You have to look at this</h5>
+      <span class="text-muted">
+        <ul>
+          <li><h4><a href="cv.html">Home</a></h4></li>
+          <li><h4><a href="about.html">About</a></h4></li>
+          <li><h4><a href="contact.html">Contact</a></h4></li>
+        </ul>
+      </span>
+    </div>
+  </div>
+  <nav class="navbar navbar-dark bg-dark">
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  </nav>
+</div>
+</div>
+
+<div id="juu">
+    <h1 class="display-1"><strong>ABOUT</strong></h1>
+</div>
+
+    <div id="container">
+      <div class="card-deck">
+  <div class="card">
+    <img src="tomasso.jpg" class="card-img-top" alt="ed">
+    <div class="card-body">
+      <h5 class="card-title"><strong>EDUCATION</strong></h5>
+      <p class="card-text">I'm a student studying a Business with Information Technology degree at Strathmore University.</p>
+      <P class="card-text">Before this I had pursued a high school education at The Corner Brook School.</P>
+      </div>
+  </div>
+  <div class="card">
+    <img src="adi.jpg" class="card-img-top" alt="adi">
+    <div class="card-body">
+      <h5 class="card-title"><strong>SKILLS & ABILITIES</strong></h5>
+      <p class="card-text">I like coding because it helps me find new intuitive ways to display information<br/> while creating simplistic sites and products pleasing to the eye.</p>
+      
+  </div>
+</div>
+  <div class="card">
+    <img src="ishan.jpg" class="card-img-top" alt="ishani">
+    <div class="card-body">
+      <h5 class="card-title"><strong>HOBBIES</strong></h5>
+      <p class="card-text">I have several hobbies which include: </p>
+      <ul>
+        <li><a href="hobbs.html#swimming">Swimming</a></li>
+        <li><a href="hobbs.html#art">Art</a></li>
+      </ul>
+
+  </div>
+  </div>
+</div>
+</div>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
