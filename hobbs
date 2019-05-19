@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <title>Hobbies</title>
+    <style type="text/css">
+      html{
+      background:url(nate.jpg) no-repeat center center fixed;
+      -webkit-background-size:cover;
+      -moz-background-size:cover;
+      -o-background-size:cover;
+      background-size:cover;
+      }
+
+      body{
+        background:none;
+      }
+
+      #name{
+        color:white;
+        margin-left:50px;
+        font-family:cinzel decorative;
+      }
+
+      #container{
+        font-family:niconne;
+      }
+      
+    </style>
+  </head>
+  <body>
+  <div id="name">
+    <h1>HOBBIES</h1>
+  </div>
+    <div id="container">
+    <div class="card mb-3">
+      <img src="goh.jpg" class="card-img-top" alt="goh">
+  <div class="card-body">
+    <h4 class="card-title" id="swimming"><strong>Swimming</strong></h4>
+    <p class="card-text">It is an individual or team sport that requires the use of one's entire body to move through the water.<br/>The sport takes place in pools or open water(e.g in a sea or lake).<br/>Competitive swimming is one of the mose popular Olympic sports with varies events in butterfly, breaststroke, freestyle and individual medley.</p>
+   
+  </div>
+</div>
+<div class="card">
+  <div class="card-body">
+    <h4 class="card-title" id="art"><strong>Art</strong></h4>
+    <p class="card-text">Art is a diverse range of human activities in creating visual, auditory or performing artifacts(artworks).<br/>Expressing the authors imaginative, conceptual or technical skill, intended to be appreciated for their beauty or
+emotional power,In their most general form these activities include the production of works of art, the criticism
+of art, the study of the history of art, and the aesthetic dissemination of art.</p>
+    
+  </div>
+  <img src="alex.jpg" class="card-img-top" alt="alex">
+</div>
+</div>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
